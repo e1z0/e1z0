@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I’m **Justinas K.** — also known as **@e1z0** — a system administrator by trade and a developer by passion, with over **two decades** of hands-on experience in IT infrastructure and software engineering.
+Hi, I’m **Justinas K.** — also known as **[@e1z0](https://e1z0.net)** — a system administrator by trade and a developer by passion, with over **two decades** of hands-on experience in IT infrastructure and software engineering.
 
 - 🧰 I manage and automate **Linux systems**, **networking gear** (MikroTik, Cisco, pfSense/OPNsense), and **homelab environments**.
 - 🖥️ I develop software in **C** (for microcontrollers), **C#** (desktop apps), **Java** (Android), and **Golang**/**Swift** (new favorites).
